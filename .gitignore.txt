@@ -1,0 +1,3 @@
+duel_stats.db
+*.pyc
+__pycache__/
